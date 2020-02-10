@@ -7,7 +7,6 @@ public class DemoClass
 	{
 		System.out.println("Added firstLine.....");
 		System.out.println("Added secondLine.....");
-		System.out.println("Added ThirdLine.....");
 
 	}
 
